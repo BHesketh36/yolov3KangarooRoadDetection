@@ -1,0 +1,7 @@
+DOWNLOAD yolov3_training_last.weights file here:
+https://drive.google.com/file/d/1-F0dPVuLRLULpCUONY0auEhmkiQcoEWU/view?usp=sharing
+
+DOWNLOAD yolov3.weights file here: 
+https://drive.google.com/file/d/1_Qx6KAsUMfuKM7zAmK4YbIbEZ1ZmpOZm/view?usp=sharing
+
+Place both weight files directly into the "yolov3KangarooRoadDetection" folder.
