@@ -1,7 +1,12 @@
 # yolov3KangarooRoadDetection
 Trained from custom labelled data using the Yolov3 Real-Time Object Detection Algorithm. Contains scripts to detect kangaroos and other objects such as cars and bicycles from dash cam footage, live cams, and images.
 
-NOTE: MISSING 2 WEIGHT FILES -> "yolov3.weights" and "yolov3_training_last.weights" DUE TO FILE SIZE LIMITS.
+REQUIRED: MISSING 2 WEIGHT FILES -> "yolov3.weights" and "yolov3_training_last.weights" DUE TO FILE SIZE LIMITS.
+DOWNLOAD yolov3_training_last.weights file here:
+https://drive.google.com/file/d/1-F0dPVuLRLULpCUONY0auEhmkiQcoEWU/view?usp=sharing
+
+DOWNLOAD yolov3.weights file here: 
+https://drive.google.com/file/d/1_Qx6KAsUMfuKM7zAmK4YbIbEZ1ZmpOZm/view?usp=sharing
 
 
 Requires Python 3.7.9, OpenCV and NumPy.
